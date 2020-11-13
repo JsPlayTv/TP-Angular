@@ -1,0 +1,8 @@
+.listPlayer{
+    text-align: center;
+    align-items: center;
+    border: groove 5px black;
+    padding: 8px;
+    border-radius: 10px 10px 10px 10px;
+    background-color : #C1DF69 ;
+}

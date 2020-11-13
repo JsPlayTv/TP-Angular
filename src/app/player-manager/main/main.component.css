@@ -1,0 +1,17 @@
+.titlePlayer{
+    text-align: center;
+    font-style: oblique;
+    border: groove 5px black;
+    padding: 8px;
+    border-radius: 0 0 10px 10px;
+    background-color : #FA8072 ;
+}
+
+.playerManager{
+    text-align: center;
+    align-items: center;
+    border: groove 5px black;
+    padding: 8px;
+    border-radius: 10px 10px 0 0;
+    background-color : #E1BC6F ;
+}
